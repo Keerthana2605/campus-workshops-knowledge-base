@@ -1,6 +1,6 @@
 # campus-workshops-knowledge-base
 
-Knowledge Base for Campus Workshops Keerthana M here 
+Knowledge Base for Campus Workshops Keerthana M 
 
 # What we'll be doing today?
 
